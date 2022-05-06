@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on WhyStart</title>
+    <title>Tags on WhyStart&#39;Blog</title>
     <link>https://WhyStart.github.io/tags/</link>
-    <description>Recent content in Tags on WhyStart</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://WhyStart.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Tags on WhyStart&#39;Blog</description>
+    <image>
+      <url>https://WhyStart.github.io/papermod-cover.png</url>
+      <link>https://WhyStart.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://WhyStart.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>markdown</title>
+      <link>https://WhyStart.github.io/tags/markdown/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://WhyStart.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://WhyStart.github.io/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://WhyStart.github.io/tags/text/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
