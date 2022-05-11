@@ -4,10 +4,7 @@
     <title>Series on Blog</title>
     <link>https://WhyStart.github.io/series/</link>
     <description>Recent content in Series on Blog</description>
-    <image>
-      <url>https://WhyStart.github.io/papermod-cover.png</url>
-      <link>https://WhyStart.github.io/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://WhyStart.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://WhyStart.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

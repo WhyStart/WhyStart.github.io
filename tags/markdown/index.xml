@@ -4,16 +4,13 @@
     <title>markdown on Blog</title>
     <link>https://WhyStart.github.io/tags/markdown/</link>
     <description>Recent content in markdown on Blog</description>
-    <image>
-      <url>https://WhyStart.github.io/papermod-cover.png</url>
-      <link>https://WhyStart.github.io/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://WhyStart.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://WhyStart.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
       <link>https://WhyStart.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://WhyStart.github.io/posts/my-first-post/</guid>
       <description>Lorem Ipsum Dolor Si Amet</description>
