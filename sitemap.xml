@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://WhyStart.github.io/posts/papermod-installation/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
     <loc>https://WhyStart.github.io/</loc>
-    <lastmod>2022-05-11T11:39:59+08:00</lastmod>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/tags/markdown/</loc>
     <lastmod>2022-05-11T11:39:59+08:00</lastmod>
@@ -12,20 +15,36 @@
     <lastmod>2022-05-11T11:39:59+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/posts/</loc>
-    <lastmod>2022-05-11T11:39:59+08:00</lastmod>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/tags/</loc>
-    <lastmod>2022-05-11T11:39:59+08:00</lastmod>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/tags/text/</loc>
     <lastmod>2022-05-11T11:39:59+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/tags/docker/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/tags/docker-compose/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/posts/docker-deploy-plumelog/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/tags/papermod/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/series/papermod/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
+  </url><url>
+    <loc>https://WhyStart.github.io/series/</loc>
+    <lastmod>2022-05-18T17:46:37+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/archives/</loc>
     <lastmod>2022-05-06T11:30:34+08:00</lastmod>
   </url><url>
     <loc>https://WhyStart.github.io/search/</loc>
     <lastmod>2022-05-06T11:30:34+08:00</lastmod>
-  </url><url>
-    <loc>https://WhyStart.github.io/series/</loc>
   </url>
 </urlset>

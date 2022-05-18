@@ -5,6 +5,16 @@
     <link>https://WhyStart.github.io/series/</link>
     <description>Recent content in Series on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://WhyStart.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://WhyStart.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://WhyStart.github.io/series/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://WhyStart.github.io/series/papermod/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
